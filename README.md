@@ -19,4 +19,4 @@ I'm a **Software Engineer** specializing in Full Stack Web Development and QA Au
 - **Wobbly Runner** - An interactive web-based game built with HTML5 Canvas and JavaScript.
 - **IoT Innovations** - Arduino-based hardware/software integrations like the *Smart Car Parking System* and *Third Eye for Blind*.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/md-rashid-computerengineer/) | [Portfolio Website](http://localhost:5173) *(Replace with your live portfolio link)*
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/md-rashid-computerengineer/) | [Portfolio Website](https://mdrashiddev.netlify.app/)
