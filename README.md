@@ -1,22 +1,37 @@
-# Hi there, I'm Md Rashid! 👋
+# Hi, I'm Md Rashid 👋
 
-I'm a **Software Engineer** specializing in Full Stack Web Development and QA Automation. I enjoy building dynamic, user-centric applications and ensuring they run flawlessly.
+## Software QA Engineer | Manual Tester
 
-### 🛠️ Tech Stack & Tools
-- **Frontend:** React, Angular, Svelte, JavaScript, TypeScript, Tailwind CSS
-- **Backend:** Node.js, FastAPI, Python, REST APIs
-- **Database:** SQL
-- **QA & Testing:** Playwright, Automation Testing, Manual Testing
-- **Workflow:** Git, Agile / SDLC
+I am a Software QA Engineer passionate about ensuring software quality through effective testing and defect identification.
 
-### 🚀 What I'm working on
-- Previously worked as a Junior Software Engineer at **Indpro**, contributing to platforms like *Jahopp* and *Job Portal*.
-- Actively exploring new Software Engineering opportunities!
-- Exploring and developing interactive web applications (e.g., *InteraMinds*, *InteraCart*).
+## Skills
 
-### 🏆 Featured Projects
-- **InteraMinds** - Interactive web platform focused on user engagement and scalable architecture.
-- **Wobbly Runner** - An interactive web-based game built with HTML5 Canvas and JavaScript.
-- **IoT Innovations** - Arduino-based hardware/software integrations like the *Smart Car Parking System* and *Third Eye for Blind*.
+- Manual Testing
+- SDLC
+- STLC
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- API Testing (Postman)
+- SQL
+- Bug Reporting
+- Agile Scrum
+- Git & GitHub
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/md-rashid-computerengineer/) | [Portfolio Website](https://mdrashiddev.netlify.app/)
+## Tech Stack
+
+HTML • CSS • JavaScript • Angular • SQL • Git
+
+## Currently
+
+- Looking for Software QA Engineer opportunities
+- Immediate Joiner
+- Based in Bengaluru
+
+## Connect with Me
+
+LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+
+Email: YOUR_EMAIL
